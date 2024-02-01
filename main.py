@@ -7,7 +7,7 @@ def check_character(word, index):
       elif char.isdigit():
          return "digit"
       elif char.isspace():
-         return "whitespace"
+         return "white space"
       else:
          return "unknown"
    else:
